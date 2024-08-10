@@ -27,8 +27,8 @@ This project implements a contextual chatbot using Streamlit, which transcribes 
    Clone the repository to your local machine:
 
    ```bash
-   git clone <https://github.com/mayabayal/Audio-File-Contextual-Chatbot.git>
-   cd <chatbot>
+   git clone https://github.com/mayabayal/Audio-File-Contextual-Chatbot.git
+   cd chatbot
    ```
 
 2. **Create and Activate a Conda Environment**
