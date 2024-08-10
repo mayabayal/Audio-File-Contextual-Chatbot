@@ -27,7 +27,7 @@ This project implements a contextual chatbot using Streamlit, which transcribes 
    Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone <>
    cd <repository-directory>
    ```
 
